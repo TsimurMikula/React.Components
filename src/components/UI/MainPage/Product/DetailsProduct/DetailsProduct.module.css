@@ -1,0 +1,32 @@
+.prod {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  height: 80%;
+  margin: 0 auto;
+  background: #8282e7;
+}
+
+.img {
+  width: 80%;
+  height: 50%;
+  border-radius: 10px;
+  margin-bottom: 5%;
+}
+
+.title {
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 10%;
+}
+
+.description {
+  width: 80%;
+  font-size: 15px;
+  text-align: justify;
+  margin: 10px auto;
+  margin-left: 10%;
+}
+
+

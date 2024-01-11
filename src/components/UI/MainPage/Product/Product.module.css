@@ -1,0 +1,49 @@
+*{
+  text-decoration: none;
+  color: inherit;
+}
+
+.prod {
+  width: 232px;
+  height: 300px;
+  border: 2px solid  #8282e7;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.prod:hover {
+  background-color: #8282e7;
+  cursor: pointer;
+}
+
+.prod:hover .title {
+  color: black;
+  background-color: #8282e7;
+  cursor: pointer;
+}
+
+.prod:hover .description {
+  background-color: #8282e7;
+  cursor: pointer;
+}
+
+.img {
+  width: 80%;
+  height: 100px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.description {
+  width: 90%;
+  font-size: 15px;
+  text-align: justify;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+

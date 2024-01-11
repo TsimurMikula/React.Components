@@ -1,0 +1,18 @@
+.sidebar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20%;
+  height: 100%;
+  color: #000;
+  background: #8282e7;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background: #8282e7;
+}
